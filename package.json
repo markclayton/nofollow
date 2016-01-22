@@ -1,0 +1,17 @@
+{
+  "name": "nofollow",
+  "version": "1.0.0",
+  "description": " App that list twitter follows that don't follow you back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "twitter",
+    "followers",
+    "express",
+    "example"
+  ],
+  "author": "Mark Clayton",
+  "license": "MIT"
+}
