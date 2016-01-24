@@ -15,6 +15,7 @@
   "author": "Mark Clayton",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.13.4",
     "twitter": "^1.2.5"
   }
 }

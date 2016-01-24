@@ -30,9 +30,6 @@ client.get('followers/ids', params, function(error, followers_results, response)
             one_way_following.push(person);
         });
 
-        //console.log(one_way_following);
-
-        // only take the first 100 users
         one_way_following = one_way_following.slice(0,99);
 
         var one_way_following_string = one_way_following.join();
